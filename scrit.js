@@ -1,6 +1,7 @@
 
 console.log("holaaaaa Mundo ");
 
+function funcion(){
 for(let cots=1 ; cots<=20; cots++){
     if (cots%2 === 0){
         console.log ("numero" + cots + "es par");
@@ -8,6 +9,7 @@ for(let cots=1 ; cots<=20; cots++){
         console.log ("numero " + cots + "es impar")
 
     }
+}
 }
 
  
